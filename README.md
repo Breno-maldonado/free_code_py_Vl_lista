@@ -1,4 +1,4 @@
-# Gerenciador de Lista Simples 📝
+# 📝 Gerenciador de Lista Simples
 
 Um pequeno projeto em Python focado em lógica de menus e manipulação de entradas do usuário via console.
 
