@@ -35,13 +35,3 @@ while True:
         print(lista)
         input("\nPressione Enter para voltar ao menu...")
         apagar()
-
-
-
-
-
-
-
-
-
-entrada_usuario = str(int("Digite oque você quer armazenar: \n"))
