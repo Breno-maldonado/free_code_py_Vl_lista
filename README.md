@@ -12,5 +12,5 @@ Um pequeno projeto em Python focado em lógica de menus e manipulação de entra
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3**
 - **Biblioteca `os`**: Para interação com os comandos do sistema operacional.
